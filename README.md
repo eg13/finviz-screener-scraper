@@ -25,7 +25,7 @@ Go to Finviz website's screener [https://finviz.com/screener.ashx](https://finvi
 
 Change the filters and settings and the URL will automatically adjust. 
 
-![Finviz]([https://github.com/eg13/ScreenerDownloader/blob/main/assets/images/Finviz.JPG](https://github.com/eg13/finviz-screener-scraper/blob/main/assets/images/Finviz.JPG))
+![Finviz](https://github.com/eg13/finviz-screener-scraper/blob/main/assets/images/Finviz.JPG))
 
 
 
